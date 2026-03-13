@@ -7,18 +7,18 @@ Full Stack Developer | React | Node.js | React Native
 </p>
 
 <p align="center">
-Building scalable web & mobile applications with modern technologies.
+I build scalable web & mobile applications using modern technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer passionate about modern technologies
+* 💻 Full Stack Developer focused on modern web technologies
 * ⚛️ Specialized in **React, Node.js, and React Native**
-* 🌍 Creating scalable web applications and APIs
-* 📚 Always learning new technologies
-* 🚀 Available for freelance and remote projects
+* 🌍 Building scalable web applications and APIs
+* 📚 Always learning new technologies and improving my skills
+* 🚀 Open to **freelance and remote opportunities**
 
 ---
 
@@ -30,32 +30,55 @@ Building scalable web & mobile applications with modern technologies.
 
 ## 🛠 Tech Stack
 
-### Languages
+### 🎨 Frontend & Mobile
 
-JavaScript • Python • Java • C++ • C
+* React
+* React Native
+* JavaScript
+* HTML5
+* CSS3
+* Next.js
 
-### Frontend
+### ⚙️ Backend & APIs
 
-React.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+* Node.js
+* NestJS
+* Express.js
+* Python
+* Django
+* RESTful APIs
+* Socket.io
 
-### Backend
+### 🗄 Databases
 
-Node.js • Express.js • PHP • REST APIs
+* MongoDB
+* PostgreSQL
+* Firebase
 
-### Databases
+### ☁️ Cloud & Security
 
-MongoDB • MySQL • Firebase
+* AWS
+* OAuth 2.0
+* JWT Authentication
 
-### Tools
+### 🤖 AI & Data
 
-Git • GitHub • VS Code • Postman
+* RAG (Retrieval Augmented Generation)
+* Vector Databases
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
 
 ---
 
 ## ⚡ Tech Icons
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,python,mongodb,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,js,python,django,mongodb,postgres,firebase,aws,git,github,vscode,html,css" />
 </p>
 
 ---
@@ -80,19 +103,19 @@ Git • GitHub • VS Code • Postman
 
 ### 🏠 Property Website
 
-Real estate platform with map integration and location-based search.
+Real estate platform with **map integration and location-based search**.
 
 ### 📍 Location Finder
 
-Web application using Google Maps APIs to calculate nearest locations.
+Web application that calculates **nearest locations using Google Maps APIs**.
 
 ### 📅 Event Manager
 
-Application for managing recurring events and scheduling.
+Application for **managing recurring events and scheduling**.
 
 ### 🌐 Portfolio Website
 
-Personal developer portfolio showcasing projects and skills.
+Personal developer portfolio showcasing **projects, skills, and experience**.
 
 ---
 
