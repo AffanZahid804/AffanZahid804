@@ -123,7 +123,6 @@ Personal developer portfolio showcasing **projects, skills, and experience**.
 
 ## 🤝 Connect With Me
 
-* 🌐 Portfolio: https://affanzahid804.github.io/Portfolio_Website/
 * 💻 GitHub: https://github.com/AffanZahid804
 
 ---
