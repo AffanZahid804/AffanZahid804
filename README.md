@@ -20,13 +20,7 @@ I build scalable web & mobile applications using modern technologies.
 * 📚 Always learning new technologies and improving my skills
 * 🚀 Open to **freelance and remote opportunities**
 
----
 
-## 🌐 Portfolio
-
-🔗 https://affanzahid804.github.io/Portfolio_Website/
-
----
 
 ## 🛠 Tech Stack
 
